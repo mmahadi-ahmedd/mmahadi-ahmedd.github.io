@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mmahadi-ahmedd.github.io/static/css/main.d6d5b629.css",
+    "main.js": "/mmahadi-ahmedd.github.io/static/js/main.f9338260.js",
+    "static/media/mock1.png": "/mmahadi-ahmedd.github.io/static/media/mock1.8257cd8be0fc6ca67c1d.png",
+    "static/media/mock2.png": "/mmahadi-ahmedd.github.io/static/media/mock2.326a362f1824cb788551.png",
+    "static/media/self.png": "/mmahadi-ahmedd.github.io/static/media/self.8ca78c4bbbf43dfebb51.png",
+    "index.html": "/mmahadi-ahmedd.github.io/index.html",
+    "main.d6d5b629.css.map": "/mmahadi-ahmedd.github.io/static/css/main.d6d5b629.css.map",
+    "main.f9338260.js.map": "/mmahadi-ahmedd.github.io/static/js/main.f9338260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d5b629.css",
+    "static/js/main.f9338260.js"
+  ]
+}
